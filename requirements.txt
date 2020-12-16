@@ -1,0 +1,4 @@
+selenium
+pyvirtualdisplay
+bs4
+qrcode
