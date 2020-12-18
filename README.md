@@ -1,4 +1,4 @@
-![TheQuadruple](https://github.com/wasfyelbaz/TheWhatsappQuadruple/blob/main/core/logo.PNG)
+![TheQuadruple](https://github.com/wasfyelbaz/TheWhatsappQuadruple/blob/main/core/logo.png)
 ## Dependencies
 * Python3 Modules:
     * Selenium
