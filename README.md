@@ -1,4 +1,6 @@
-![TheQuadruple](https://github.com/wasfyelbaz/TheWhatsappQuadruple/blob/main/core/logo.png)
+# TheWhatsappQuadruple
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## Dependencies
 * Python3 Modules:
     * Selenium
@@ -15,7 +17,7 @@
     pip3 install -r requirements.txt
 
 ## Command line options
-$ python3 Quadruple.py -h
+```$ python3 Quadruple.py -h```
 
 *  `-cf`, `--check-files` check dirs and files needed by the script.
 
